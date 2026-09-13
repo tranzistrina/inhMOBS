@@ -1,0 +1,20 @@
+name: MobSpawnControl
+version: '1.0.0'
+main: ru.inh.mobspawncontrol.MobSpawnControl
+api-version: '26.2'
+author: Inh
+website: https://papermc.io
+
+description: Управление естественным спавном мобов по чанкам
+
+commands:
+  mobspawn:
+    description: Запретить естественный спавн мобов в чанке
+    usage: /mobspawn <add|remove|list|clear|reload> ...
+    permission: mobspawn.admin
+    aliases: [ms]
+
+permissions:
+  mobspawn.admin:
+    description: Управление запретами спавна
+    default: op

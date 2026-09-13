@@ -1,0 +1,29 @@
+# Runtime files are not source-controlled.
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+versions/
+libraries/
+*.log
+*.log.gz
+*.lock
+server.properties
+server.properties.bak
+usercache.json
+ops.json
+whitelist.json
+banned-*.json
+plugins/*/
+plugins/*.jar
+!plugins/MobSpawnControl.jar
+!plugins/Gods.jar
+build/
+backup/
+.gradle/
+.DS_Store
+
+# The distributable jars are kept explicitly in dist/.
+!dist/
+!dist/*.jar
