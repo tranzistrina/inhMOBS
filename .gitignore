@@ -18,7 +18,7 @@ banned-*.json
 plugins/*/
 plugins/*.jar
 !plugins/MobSpawnControl.jar
-!plugins/Gods.jar
+!plugins/inhMOBS.jar
 build/
 backup/
 .gradle/

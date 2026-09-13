@@ -1,4 +1,4 @@
-name: MobSpawnControl
+name: inhMOBS
 version: '1.0.0'
 main: ru.inh.mobspawncontrol.MobSpawnControl
 api-version: '26.2'
