@@ -23,6 +23,16 @@ build/
 backup/
 .gradle/
 .DS_Store
+.paper/
+paper-*.jar
+autoop.sh
+bukkit.yml
+commands.yml
+config/
+eula.txt
+spigot.yml
+wepif.yml
+optional-plugins/
 
 # The distributable jars are kept explicitly in dist/.
 !dist/

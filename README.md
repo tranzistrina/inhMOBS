@@ -38,4 +38,4 @@ The resulting jar is copied to `plugins/MobSpawnControl.jar` for the local serve
 ## Gods
 
 `Gods` is the personal-reality/phantom system described in `docs/TZ_Gods_Paper_26_2.md`.
-Its public API, commands and implementation documentation will be kept under `gods/` and `docs/`.
+The implementation, public API and commands are documented in `docs/Gods.md`; its standalone Gradle project is under `gods/` and the distributable jar is in `dist/Gods-1.0.0.jar`.
